@@ -149,7 +149,7 @@ Subimos el repositorio local al remoto con push.
 % git push -u origin main
 ```
  
-
+> > He modificado la dirección de la captura para ver los colores.
 
 
 

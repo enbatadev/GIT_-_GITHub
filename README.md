@@ -114,11 +114,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ```
 > > Nos sigue indicando que estamos en la rama (branch) master. Como lo he vuelto a modificar :man_facepalming: , nos pide que lo añadamos a git de nuevo o descartemos las modificaciones restaurandolo a la copia anterior. Desde este punto nosotros ya generaremos el commit, para guardar los cambios en el repositorio local.
 > >
-<<<<<<< HEAD
-[https://github.com/enbatadev/GIT_-_GITHub/blob/main/Captura_de_pantalla_colores.png](url)
-=======
 ![](https://github.com/enbatadev/GIT_-_GITHub/blob/main/Captura_de_pantalla_colores.png)
->>>>>>> cd714e8 (Corregido fallo de integración e imagen)
 > > Añadimo el fichero y vemos que se cambia verde, para indicarnos que está movido.
 > >
 Añadimos una captura de pantalla para ver los colores. Realizamoa el add de esta imagen. Y el commit, aunque de forma diferente a la anterior. Utilizaremos la opción del comando "--amend" para que en vez de generar un commit nuevo, se modifique añadiendose al anterior.
@@ -150,7 +146,7 @@ Subimos el repositorio local al remoto con push.
 ```
  
 > > He modificado la dirección de la captura para ver los colores. Y el nombre del fichero.
-
+> >
 
 
 
